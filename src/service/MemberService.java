@@ -18,7 +18,7 @@ import java.util.Scanner;
  *
  * COLLECTIONS USED:
  *   - ArrayList<Member>              : stores all registered members.
- *   - HashMap<String, MembershipPlan>: maps plan code -> MembershipPlan object.
+ *   - HashMap<String, MembershipPlan>: maps plan code -> MembershipPlan object..
  */
 public class MemberService {
 
