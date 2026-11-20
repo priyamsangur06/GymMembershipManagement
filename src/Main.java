@@ -15,7 +15,7 @@ import java.util.Scanner;
  * each user action to the appropriate service class.
  *
  * Compile: javac -d out -sourcepath src src/Main.java
- * Run    : java -cp out Main
+ * Run    : java -cp out Main.
  * ============================================================
  */
 public class Main {
