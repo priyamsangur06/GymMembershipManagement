@@ -2,7 +2,7 @@ package exception;
 
 /**
  * Custom exception thrown when member data is invalid.
- * For example: negative age, empty name, invalid phone number.
+ * For example: negative age, empty name, invalid phone number..
  * Demonstrates custom exception handling in Java.
  */
 public class InvalidMemberException extends Exception {
