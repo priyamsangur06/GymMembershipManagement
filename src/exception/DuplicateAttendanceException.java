@@ -13,7 +13,7 @@ public class DuplicateAttendanceException extends Exception {
     /**
      * Constructor with member ID and date.
      *
-     * @param memberId The ID of the member with duplicate attendance.
+     * @param memberId The ID of the member with duplicate attendance..
      * @param date     The date on which the duplicate was detected.
      */
     public DuplicateAttendanceException(String memberId, String date) {
