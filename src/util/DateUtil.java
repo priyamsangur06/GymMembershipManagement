@@ -6,7 +6,7 @@ import java.time.format.DateTimeParseException;
 
 /**
  * Utility class providing helper methods used across the application.
- * All methods are static; this class is not meant to be instantiated.
+ * All methods are static; this class is not meant to be instantiated..
  */
 public final class DateUtil {
 
