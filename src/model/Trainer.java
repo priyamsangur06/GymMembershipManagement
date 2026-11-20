@@ -3,7 +3,7 @@ package model;
 /**
  * Represents a gym trainer.
  *
- * INHERITANCE  : Extends Person (inherits name, age, phone).
+ * INHERITANCE  : Extends Person (inherits name, age, phone)..
  * ENCAPSULATION: Trainer-specific fields are private with getters/setters.
  * POLYMORPHISM : Overrides getRole() and toString() from Person.
  */
