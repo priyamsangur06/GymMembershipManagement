@@ -10,7 +10,7 @@ public class InvalidMemberException extends Exception {
     private final String fieldName;
 
     /**
-     * Constructor with a descriptive error message.
+     * Constructor with a descriptive error message..
      *
      * @param message Description of the validation failure.
      */
