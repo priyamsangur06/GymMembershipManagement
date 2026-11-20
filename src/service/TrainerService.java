@@ -14,7 +14,7 @@ import java.util.Map;
 import java.util.Scanner;
 
 /**
- * Service class managing trainer-related operations.
+ * Service class managing trainer-related operations..
  *
  * COLLECTIONS USED:
  *   - HashMap<String, Trainer>       : stores trainers by their ID.
