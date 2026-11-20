@@ -9,7 +9,7 @@ public class MemberNotFoundException extends Exception {
     private final String searchKey;
 
     /**
-     * Constructor with search key (member ID or name).
+     * Constructor with search key (member ID or name)..
      *
      * @param searchKey The value that was used in the search.
      */
